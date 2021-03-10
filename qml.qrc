@@ -4,5 +4,12 @@
         <file>Page1Form.ui.qml</file>
         <file>Page2Form.ui.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>../../Downloads/mos.svg</file>
+        <file>../../Desktop/QML/polytech_logo_main_black.png</file>
+        <file>../../Downloads/magnifiying-glass.svg</file>
+        <file>../../Downloads/magnifiersearchinterfacecircularbutton_104679.svg</file>
+        <file>../../Downloads/search.svg</file>
+        <file>../../Downloads/gear.svg</file>
+        <file>../../Downloads/java_icon_182539.png</file>
     </qresource>
 </RCC>
