@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669265121699",
+    "project_id": "fluttermax-fcb8d",
+    "storage_bucket": "fluttermax-fcb8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669265121699:android:e6d5363695b190ced64a16",
+        "android_client_info": {
+          "package_name": "com.example.php_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669265121699-0aj2el3r2ms3hi7eo4r1ib4fc22or5cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHn6vYmQa6kQgJy1Rt5vNyL0erVCGsdH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669265121699-0aj2el3r2ms3hi7eo4r1ib4fc22or5cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
